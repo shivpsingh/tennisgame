@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 20px auto;
+    background-color: grey;
+    width: 800px;
+    height: 600px;
+}
